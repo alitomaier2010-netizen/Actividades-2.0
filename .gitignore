@@ -1,0 +1,12 @@
+# Ejecutables y binarios de compilacion
+*.exe
+*.out
+*.o
+*.obj
+
+# Configuracion del editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
