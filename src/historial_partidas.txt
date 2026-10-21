@@ -1,0 +1,2 @@
+1,Alexis Maier,Piedra,Papel,Derrota
+2,Alexis Maier,Tijera,Tijera,Empate
