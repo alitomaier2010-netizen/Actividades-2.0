@@ -1,0 +1,18 @@
+# Binarios / ejecutables
+*.exe
+*.out
+*.o
+*.a
+*.obj
+
+# Entornos de desarrollo
+.vscode/
+.idea/
+compile_flags.txt
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
+
+# Carpeta física de consignas de la materia (no versionada)
+Estructura_Carpetas_y_Actividades/
