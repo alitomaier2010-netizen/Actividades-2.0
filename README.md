@@ -17,6 +17,13 @@ y luego verificados con este **código de referencia** en C++.
 - Integrantes del grupo: Alexis Maier (trabajo individual)
 - Docente: Mansilla Muñoz York Elías
 
+## Repositorios
+
+- **GitHub (principal):** https://github.com/alitomaier2010-netizen/Actividades-2.0/tree/algoritmica
+- **GitLab (respaldo Dual-Remote):** https://gitlab.com/Alitopro/Actividades-2.0/-/tree/algoritmica
+
+Un único `git push` actualiza ambos servidores: `origin` mantiene el `fetch` en GitHub y tiene dos `pushurl` configurados (GitHub + GitLab), según la estrategia «anti-caídas» documentada en la ACT06.
+
 ## Estructura
 
 ```
